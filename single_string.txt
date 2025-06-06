@@ -1,0 +1,2 @@
+This is a single string written to the file.with
+python
